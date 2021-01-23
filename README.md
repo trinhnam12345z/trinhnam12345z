@@ -11,4 +11,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trinhnam12345z&show_icons=true&theme=dark)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trinhnam12345z&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhnam12345z&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
