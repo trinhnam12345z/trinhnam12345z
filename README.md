@@ -124,6 +124,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-[twitter]: #
+[twitter]: https://www.facebook.com/trinhnam1210/
 [facebook]: https://www.facebook.com/trinhnam1210/
-[instagram]: #
+[instagram]: https://www.facebook.com/trinhnam1210/
