@@ -96,15 +96,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
-
-### Medium
-
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
 ### Dev Community
 
 <!-- DEVTO:START -->
