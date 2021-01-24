@@ -3,7 +3,7 @@
 ### Hi there, I'm trinhnam12345z (Nam) 👋 
 
 - 🏢 I am a student of pxu university !
-- 🔭 I’m currently working on a my final year project!
+- 🔭 I’m currently working on a my final year project !
 - 🌱 I’m currently learning Fullstack and Machine Learning
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -114,9 +114,9 @@
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/sabesansathananthan">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trinhnam12345z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trinhnam12345z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a>
 <a href="https://github.com/sabesansathananthan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trinhnam12345z&layout=compact&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trinhnam12345z&layout=compact&theme=dark&hide_border=true" />
 </a>
 
 ---
