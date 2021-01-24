@@ -1,4 +1,6 @@
-### Hi there, I'm trinhnam12345z (Nam) 👋
+![](https://komarev.com/ghpvc/?username=trinhnam12345z&color=blue)
+
+### Hi there, I'm trinhnam12345z (Nam) 👋 
 
 ## I am a student of pxu university !
 
@@ -115,7 +117,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/sabesansathananthan">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trinhnam12345z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/sabesansathananthan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trinhnam12345z&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trinhnam12345z&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 ---
