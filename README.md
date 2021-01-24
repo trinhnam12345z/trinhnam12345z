@@ -2,7 +2,7 @@
 
 ### Hi there, I'm trinhnam12345z (Nam) 👋 
 
-- 🏢 I am a student of pxu university !
+- 🏢 I am a student of PXU university !
 - 🔭 I’m currently working on a my final year project !
 - 🌱 I’m currently learning Fullstack and Machine Learning
 - 👯 I’m looking to collaborate with other content creators
