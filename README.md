@@ -88,14 +88,12 @@
 [<code>
 <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
 </code>](https://eslint.org/)
-
 [<code>
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
 [<code>
 <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </code>](https://www.markdownguide.org/)
-
 [<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>](https://developer.apple.com/macos/)
