@@ -41,9 +41,6 @@
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" />
-</code>](https://dotnet.microsoft.com/apps/aspnet/web-apps)
-[<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
