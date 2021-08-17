@@ -108,7 +108,7 @@
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="#">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trinhnam12345z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+<!-- <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=trinhnam12345z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a> -->
 <a href="#">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=trinhnam12345z&layout=compact&theme=dark&hide_border=true" />
 </a>
